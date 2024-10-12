@@ -15,9 +15,9 @@ The dataset used in this project contains information about students, including 
 
 Models Used:
 
-Logistic Regression
-Random Forest
-XGBoost (Gradient Boosting)
+- Logistic Regression
+- Random Forest
+- XGBoost (Gradient Boosting)
 
 How It Works:
 
